@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Side_By_Side",
+    "slug": "Side_By_Side",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
